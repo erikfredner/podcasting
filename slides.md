@@ -28,16 +28,17 @@ On Scholarly Podcasting
 
 - Podcasting is distributing audio online
 - Scholarly podcasting discusses academic ideas for an interested public​
+- Scholarly podcasting relies on conventions of scholarship (e.g. citation)
 
-# Common podcast formats
+# Common scholarly podcast formats
 
 ## Presenter​
 
-One or more researchers present their work as a podcast​
+One or more researchers present their work as a podcast​.
 
 ## Interview​
 
-An interviewer asks one or more scholars questions about their research​
+An interviewer asks one or more scholars prepared and/or improvised questions about their research​.
 
 ## Panel
 
@@ -64,12 +65,12 @@ Three or more academics in related fields discuss their work​. One usually mod
 # Preparing an episode
 
 - Decide on the episode's theme
-- Arrange for any guests
+- Schedule any guests
 - Prepare for interviews
 
 # Recording
 
-- When recording, the environment should be *quiet*, and the microphone needs to be *well placed*.
+- When recording, the environment should be *quiet*, and the microphone needs to be [*well placed*](https://training.npr.org/2021/10/24/audio-interview-sound-problems-checklist/).
 - A closet full of clothes is likely the quietest place you have to record. Even [NPR](https://training.npr.org/2020/03/31/professional-sound-from-a-diy-studio-it-can-be-done/) uses this trick.
 - You can get started with the microphone on your phone or computer.
 - If they are in a different location, you will also need to help your guests record themselves.
@@ -86,10 +87,10 @@ Androids come with a voice recorder, but the name varies depending on your phone
 
 - Listen to a sample of your recording *before* starting the interview
 - Clap at the beginning to synchronize multiple audio files
-- Avoid clipping
-- Maintain a consistent distance from the microphone
+- Avoid [clipping](https://en.wikipedia.org/wiki/Clipping_(audio))
+- Maintain a consistent distance from the microphone and consistent speaking volume
 - Pause the conversation to drink water or make noise (e.g. shuffling papers)
-- Get another take if someone says something poorly, or you hear noise
+- Get another take if someone says something poorly or you hear noise
 - You can always re-record yourself; you can't re-record guests
 
 # Editing
@@ -109,7 +110,7 @@ Audacity is free, open-source, and cross-platform. GarageBand comes with Macs.
 
 ## Audio from iPhones
 
-If you record your voice on an iPhone, you may need to install the [FFmpeg library](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#How_do_I_download_and_install_the_FFmpeg_Import.2FExport_Library.3F) for Audacity to be able to read those files.
+If you record your audio on an iPhone, you will need to install the [FFmpeg library](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#How_do_I_download_and_install_the_FFmpeg_Import.2FExport_Library.3F) for Audacity to be able to read those files.
 
 -------
 
@@ -120,6 +121,7 @@ Audacity demo
 - Import recorded audio
 - Cut the bad (select, delete)
 - Mix the good (balance, normalize)
+- Add music if you want it
 
 ## A note about music
 
@@ -133,11 +135,13 @@ For people who are deaf or hard-of-hearing, **transcripts** are essential.
 
 See examples from [The Dig](https://thedigradio.com/transcripts/) and [CSN Café](https://novel.stanford.edu/csn-cafe).
 
+Transcripts present a great opportunity to cite your sources.
+
 # Sharing
 
-Once editing is complete, export your podcast as an `.mp3` or `.wav` file. You can share that with people directly.
+Once editing is complete, export your podcast as an `.mp3` (smaller, lower quality) or `.wav` (larger, higher quality) file. You can send either of those to people directly.
 
-If you want to be on the main podcast plaforms, [Apple](https://podcasters.apple.com/) and [Spotify](https://podcasters.spotify.com/) each provide instructions for how to share your work.
+If you want to be on the main podcast plaforms, [Apple](https://podcasters.apple.com/) and [Spotify](https://podcasters.spotify.com/) each provide instructions for how to share your work there.
 
 # Practice!
 
