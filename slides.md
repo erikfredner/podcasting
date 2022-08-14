@@ -1,5 +1,6 @@
 ---
   header-includes:
+    - \usefonttheme{serif}
     - \hypersetup{colorlinks=true}
 ---
 
@@ -11,6 +12,7 @@ On Scholarly Podcasting
 
 # Agenda
 
+- What are your goals?
 - What is scholarly podcasting?
     - Definition
     - Formats
@@ -23,6 +25,11 @@ On Scholarly Podcasting
     - Sharing
 - Practice
 - Resources​
+
+# What are your goals?
+
+- What do you hope to get out of scholarly podcasting?
+- Is podcasting the right medium for your research?
 
 # What is scholarly podcasting?
 
@@ -114,7 +121,7 @@ If you record your audio on an iPhone, you will need to install the [FFmpeg libr
 
 -------
 
-Audacity demo
+*demo*
 
 # Audacity review
 
@@ -145,16 +152,17 @@ If you want to be on the main podcast plaforms, [Apple](https://podcasters.apple
 
 # Practice!
 
-1. Install Audacity (or use GarageBand if you'd rather)
-2. Choose a partner (if you want one)
-3. Choose a format for your podcast
-4. Create a 2-minute episode about one of your **habits**: what you make for breakfast, how you write an essay, what you do to relax, etc.
-5. What went wrong as you practiced? How could you improve it in the future?
+1. Install Audacity (or GarageBand if you'd rather)
+2. Record yourself speaking for two minutes about one of your **habits**: what you make for breakfast, how you write an essay, what you do to relax, etc.
+3. Listen to the recording. Choose something to cut and cut it.
+4. Listen to your edited recording.
+5. What, if anything, seems wrong? How could you improve your process or result?
 
 # Resources
 
 - [Audacity manual](https://manual.audacityteam.org/)
-- [Audacity tutorial](https://www.youtube.com/watch?v=yzJ2VyYkmaA)
+- [Audacity YouTube tutorial](https://www.youtube.com/watch?v=yzJ2VyYkmaA)
+- [GarageBand YouTube tutorial](https://www.youtube.com/watch?v=xhesskgmIsQ)
 - [Apple's instructions for podcast creators](https://podcasters.apple.com/support/825-how-to-create-an-episode)
 - [NPR's audio journalism training](https://training.npr.org/)
 - [Copeland and McGregor on academic podcasting](https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1002&context=books)
