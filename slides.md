@@ -119,13 +119,9 @@ Audacity is free, open-source, and cross-platform. GarageBand comes with Macs.
 
 If you record your audio on an iPhone, you will need to install the [FFmpeg library](https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html#How_do_I_download_and_install_the_FFmpeg_Import.2FExport_Library.3F) for Audacity to be able to read those files.
 
--------
+# Audacity overview
 
-*demo*
-
-# Audacity review
-
-- Import recorded audio
+- Record or import audio
 - Cut the bad (select, delete)
 - Mix the good (balance, normalize)
 - Add music if you want it
@@ -135,6 +131,22 @@ If you record your audio on an iPhone, you will need to install the [FFmpeg libr
 Music can help transition between introduction and interview.
 
 You can find royalty-free music for download at the [Free Music Archive](https://freemusicarchive.org/).
+
+-------
+
+*demo*
+
+# Demo review
+
+- Create new Audacity project (`.aup3`)
+- Record or import audio
+    - If you have multiple speakers with multiple recordings, align audio
+- Noise Reduction tool to elimiate background noise
+- Generate Silence or Split clip to eliminate unwanted parts
+- File > Import > Audio to add background music as another track
+- Fade In / Fade Out music. Alternatively, Auto Duck to keep music going under speaker
+- File > Export > as `.mp3` or `.wav` to share podcast
+
 
 # Podcast accessibility
 
