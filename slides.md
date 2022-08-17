@@ -166,9 +166,9 @@ If you want to be on the main podcast plaforms, [Apple](https://podcasters.apple
 
 1. Install Audacity (or GarageBand if you'd rather)
 2. Record yourself speaking for two minutes about one of your **habits**: what you make for breakfast, how you write an essay, what you do to relax, etc.
-3. Listen to the recording. Choose something to cut and cut it.
+3. Listen to the recording. Cut something. Add music.
 4. Listen to your edited recording.
-5. What, if anything, seems wrong? How could you improve your process or result?
+5. What, if anything, seems off? How could you improve your process or result?
 
 # Resources
 
